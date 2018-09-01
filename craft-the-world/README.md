@@ -1,24 +1,30 @@
 # Craft the World
 
-## TODOs
-
-- [ ] Create one training area for each dwarf. Dwarves will train automatically when they're not busy.
-- re-equip dwarves when portals open (this also gives an opportunity to revisit equipment)
-  - [ ] **(un)equip fire/silver/special arrows!**
-  - [ ] shields for warriors (minimum), or **everyone** (old shields for others, probably?)
-  - [ ] whetstones (?) for warriors
-  - [ ] gloves for archers
-  - [ ] bags of elixir for mages
-  - [ ] leather (or chitin) armors for non-warriors
-
 ## Regularly check:
 
-- [ ] food available
+- food available
+
+## Checklist for what to do next:
+
+- dwarfs' equipment
+  - picks and axes
+  - backpacks
+  - accessories
+  - armor
+- tech tree
 
 ## Remember:
 
-- [ ] a **backpack** for every dwarf!
-- [ ] Stick torches everywhere. Slime torches are essentially free.
+- Create one training area for each dwarf. Dwarves will train automatically when they're not busy.
+- re-equip dwarves when portals open (this also gives an opportunity to revisit equipment)
+  - **(un)equip fire/silver/special arrows!**
+  - shields for warriors (minimum), or **everyone** (old shields for others, probably?)
+  - whetstones (?) for warriors
+  - gloves for archers
+  - bags of elixir for mages
+  - leather (or chitin) armors for non-warriors
+- a **backpack** for every dwarf!
+- Stick torches everywhere. Slime torches are essentially free.
 - Agility is simply how fast your dwarves move. See [armor per agility reduction](https://crafttheworld.gamepedia.com/Armors#Armor_per_agility_reduction) on the Craft the World wiki. For non-warriors:
   - leather (or chitin) armor in general
   - iron boots (or chitin)
