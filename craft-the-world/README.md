@@ -15,6 +15,7 @@
 
 ## Remember:
 
+- Maintain a list (on paper) of the number of dwarfs having each skill.
 - Create one training area for each dwarf. Dwarves will train automatically when they're not busy.
 - re-equip dwarves when portals open (this also gives an opportunity to revisit equipment)
   - **(un)equip fire/silver/special arrows!**
