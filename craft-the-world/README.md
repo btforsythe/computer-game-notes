@@ -24,7 +24,8 @@
   - whetstones (?) for warriors
   - gloves for archers
   - bags of elixir for mages
-  - leather (or chitin) armors for non-warriors
+- leather (or chitin) armor for non-warriors (agility impact)
+  - helmets and boots aren't a big agility impact
 - a **backpack** for every dwarf!
 - Stick torches everywhere. Slime torches are essentially free.
 - Agility is simply how fast your dwarves move. See [armor per agility reduction](https://crafttheworld.gamepedia.com/Armors#Armor_per_agility_reduction) on the Craft the World wiki. For non-warriors:
