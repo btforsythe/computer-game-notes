@@ -4,6 +4,7 @@
 
 - food available
 - dwarfs' equipment
+- once beer is available: check whether they've been drinking
 - if berries aren't easy to get (winter world): berries for health elixirs
 
 ## Checklist for what to do next
