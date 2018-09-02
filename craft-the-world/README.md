@@ -4,6 +4,7 @@
 
 - food available
 - dwarfs' equipment
+- if berries aren't easy to get (winter world): berries for health elixirs
 
 ## Checklist for what to do next
 
