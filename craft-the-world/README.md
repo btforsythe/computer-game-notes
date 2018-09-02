@@ -3,6 +3,7 @@
 ## Regularly check:
 
 - food available
+- dwarfs' equipment
 
 ## Checklist for what to do next:
 
