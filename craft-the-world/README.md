@@ -1,11 +1,11 @@
 # Craft the World
 
-## Regularly check:
+## Regularly check
 
 - food available
 - dwarfs' equipment
 
-## Checklist for what to do next:
+## Checklist for what to do next
 
 - dwarfs' equipment
   - picks and axes
@@ -14,7 +14,7 @@
   - armor
 - tech tree
 
-## Remember:
+## Remember
 
 - Maintain a list (on paper) of the number of dwarfs having each skill.
 - Create one training area for each dwarf. Dwarves will train automatically when they're not busy.
